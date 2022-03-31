@@ -1,9 +1,10 @@
-| Haowei Kuang (匡浩玮) **Senior Undergraduate**  
+ ![img](https://github.com/SUSTechEllison/ellison_kuang.github.com/blob/gh-pages/image.jpg)
+
+Haowei Kuang (匡浩玮) **Senior Undergraduate**  
 Computer Science and Technology, Southern University of Science and Technology 
 [kuanghw2019 [AT\] mail.sustech.edu.cn](mailto: kuanghw2019@mail.sustech.edu.cn)
-[SUSTechEllison](https://github.com/SUSTechEllison) | ![img](https://github.com/SUSTechEllison/ellison_kuang.github.com/blob/gh-pages/image.jpg) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
+[SUSTechEllison](https://github.com/SUSTechEllison)
+
 
 ## About me
 
