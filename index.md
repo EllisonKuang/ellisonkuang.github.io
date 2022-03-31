@@ -2,7 +2,8 @@
 
 Haowei Kuang (匡浩玮) **Senior Undergraduate**  
 Computer Science and Technology, Southern University of Science and Technology 
-kuanghw2019 [AT] mail.sustech.edu.cn
+
+kuanghw2019[AT]mail.sustech.edu.cn
 [SUSTechEllison](https://github.com/SUSTechEllison)
 
 
@@ -76,4 +77,5 @@ I am a senior student in the Department of Computer Science and Engineering at [
 
 
 
-© Haowei Kuang | Last updated: March 2022
+
+© Haowei Kuang   Last updated: March 2022
