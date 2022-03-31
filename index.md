@@ -1,10 +1,13 @@
-| Haowei Kuang (匡浩玮) **Senior Undergraduate**  Computer Science and Technology, Southern University of Science and Technology ![img](https://fu188.github.io/pic/email.svg) [kuanghw2019 [AT\] mail.sustech.edu.cn](mailto: fuwb2018@mail.sustech.edu.cn)![img](https://fu188.github.io/pic/github.svg) [SUSTechEllison](https://github.com/SUSTechEllison) | ![img](https://github.com/SUSTechEllison/ellison_kuang.github.com/blob/gh-pages/image.jpg) |
+| Haowei Kuang (匡浩玮) **Senior Undergraduate**  
+Computer Science and Technology, Southern University of Science and Technology 
+[kuanghw2019 [AT\] mail.sustech.edu.cn](mailto: kuanghw2019@mail.sustech.edu.cn)
+[SUSTechEllison](https://github.com/SUSTechEllison) | ![img](https://github.com/SUSTechEllison/ellison_kuang.github.com/blob/gh-pages/image.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |
 
 ## About me
 
-I am a senior student in the Department of Computer Science and Engineering at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/). I am currently study in [iMED](http://www.imed-lab.com/) and supervised by [Prof. Jimmy Liu](https://faculty.sustech.edu.cn/liuj/).
+I am a senior student in the Department of Computer Science and Engineering at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/). I am currently study in [iMED](http://www.imed-lab.com/) and supervised by [Prof. Jiang Liu](https://faculty.sustech.edu.cn/liuj/).
 
 
 
@@ -21,9 +24,8 @@ I am a senior student in the Department of Computer Science and Engineering at [
 
 - ### Research Intern | [Peking University](https://www.pku.edu.cn/)
 
-- 
 
-- **Advisor**: Prof. [Jiaying Liu](http://www.ai.pku.edu.cn/info/1158/1684.htm)*Beijing, China*
+- **Advisor**: Prof. [A.P. Jiaying Liu](http://www.ai.pku.edu.cn/info/1158/1684.htm)*Beijing, China*
   STRUCT, Wangxuan Institute of Computer Technology, Peking University
 
   
@@ -32,9 +34,8 @@ I am a senior student in the Department of Computer Science and Engineering at [
 
   ### Research Assistant | [Southern University of Science and Technology](https://www.sustech.edu.cn/)
 
-  
 
-- **Advisor**: Prof. [Prof. Jimmy Liu](https://faculty.sustech.edu.cn/liuj/)*Shenzhen, China*
+- **Advisor**: Prof. [Prof. Jiang Liu](https://faculty.sustech.edu.cn/liuj/)*Shenzhen, China*
   iMED, Department of Computer Science and Engineering
 
   
@@ -43,7 +44,6 @@ I am a senior student in the Department of Computer Science and Engineering at [
 
 ## Publications
 
-- 
 
 - **The Role of Spatial Alignment in Multimodal Medical Image Fusion Using Deep Learning fornal Diagnostic Problems** *Jul. 2021*
 
@@ -54,24 +54,19 @@ I am a senior student in the Department of Computer Science and Engineering at [
 
 - ### Teaching Assistant | [Southern University of Science and Technology](https://www.sustech.edu.cn/)
 
-- 
 
 - **Course**: CS102A Introduction to Computer Programming A *2021 Spring*
   Department of Computer Science *Shenzhen, China*
 
 
 
-
-
 - ### Teaching Assistant | [Southern University of Science and Technology](https://www.sustech.edu.cn/)
 
-- 
 
 - **Course**: CS101A An Introduction to Computer Science *2021 Fall*
   Department of Computer Science *Shenzhen, China*
 
   
-
 ## Extracurricular Activities
 
 - Minister, **Enrolling Publicity Association of SUSTech** *Oct. 2019 - June. 2021*
