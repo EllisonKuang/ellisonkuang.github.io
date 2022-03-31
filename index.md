@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+| Haowei Kuang (匡浩玮) **Senior Undergraduate**  Computer Science and Technology, Southern University of Science and Technology ![img](https://fu188.github.io/pic/email.svg) [kuanghw2019 [AT\] mail.sustech.edu.cn](mailto: fuwb2018@mail.sustech.edu.cn)![img](https://fu188.github.io/pic/github.svg) [SUSTechEllison](https://github.com/SUSTechEllison) | ![img](https://github.com/SUSTechEllison/ellison_kuang.github.com/blob/gh-pages/image.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
 
-You can use the [editor on GitHub](https://github.com/SUSTechEllison/ellison_kuang.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a senior student in the Department of Computer Science and Engineering at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/). I am currently study in [iMED](http://www.imed-lab.com/) and supervised by [Prof. Jimmy Liu](https://faculty.sustech.edu.cn/liuj/).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Education Background
 
-# Header 1
-## Header 2
-### Header 3
+- **Southern University of Science and Technology***Sep. 2019 - Jul. 2022*
 
-- Bulleted
-- List
+  *B.E. in Computer Science and Engineering*
+  **GPA**: 3.81/4.00 (Last Year: 3.91/4.00)
 
-1. Numbered
-2. List
+  
 
-**Bold** and _Italic_ and `Code` text
+## Research Experience
 
-[Link](url) and ![Image](src)
-```
+- ### Research Intern | [Peking University](https://www.pku.edu.cn/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- 
 
-### Jekyll Themes
+- **Advisor**: Prof. [Jiaying Liu](http://www.ai.pku.edu.cn/info/1158/1684.htm)*Beijing, China*
+  STRUCT, Wangxuan Institute of Computer Technology, Peking University
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SUSTechEllison/ellison_kuang.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  
 
-### Support or Contact
+  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  ### Research Assistant | [Southern University of Science and Technology](https://www.sustech.edu.cn/)
+
+  
+
+- **Advisor**: Prof. [Prof. Jimmy Liu](https://faculty.sustech.edu.cn/liuj/)*Shenzhen, China*
+  iMED, Department of Computer Science and Engineering
+
+  
+
+  
+
+## Publications
+
+- 
+
+- **The Role of Spatial Alignment in Multimodal Medical Image Fusion Using Deep Learning fornal Diagnostic Problems** *Jul. 2021*
+
+  *Xingyue Wang, Kuang Shu, **Haowei Kuang**, Shiwei Luo, Richu Jin, Jiang Liu
+  **Have submitted to *2021 the 3rd International Conference on Intelligent Medicine and Health* (ICIMH 2021)**
+
+## Teaching Experience
+
+- ### Teaching Assistant | [Southern University of Science and Technology](https://www.sustech.edu.cn/)
+
+- 
+
+- **Course**: CS102A Introduction to Computer Programming A *2021 Spring*
+  Department of Computer Science *Shenzhen, China*
+
+
+
+
+
+- ### Teaching Assistant | [Southern University of Science and Technology](https://www.sustech.edu.cn/)
+
+- 
+
+- **Course**: CS101A An Introduction to Computer Science *2021 Fall*
+  Department of Computer Science *Shenzhen, China*
+
+  
+
+## Extracurricular Activities
+
+- Minister, **Enrolling Publicity Association of SUSTech** *Oct. 2019 - June. 2021*
+- Member, **Campus Ambassador of SUSTech** *Oct. 2019 - Now*
+
+
+
+
+© Haowei Kuang | Last updated: March 2022
